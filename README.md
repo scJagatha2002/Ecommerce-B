@@ -13,4 +13,5 @@ Spring Web
 Validation
 ## Features
 Authentication and Authorization using JWT
+<br>
 Stripe Payment Gateway
