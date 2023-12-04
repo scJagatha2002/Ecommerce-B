@@ -1,4 +1,4 @@
-### Getting Started With Java Backend And MySql Database
+# Getting Started With Java Backend And MySql Database
 ## SpringBoot Dependencies
 MySql Driver
 <br>
